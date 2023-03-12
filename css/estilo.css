@@ -1,0 +1,43 @@
+    body{
+        margin: 10;
+    }
+
+    .card {
+        width: 500px; 
+        height: fit-content; 
+        background-color: #a0abcf;
+        font-family: cursive;   
+    }
+    
+    .perfil{
+        width: 100px; 
+        height: 100px; 
+        background-color: #7a16d8; 
+        border-radius: 50px; 
+        margin-left: 20px;
+    }
+
+    .icon{
+        width: 100%; 
+        height: 100%; 
+        border-radius: 50px
+    }
+
+    h1{
+        color: #0000ff; 
+        margin-left: 20px;
+    }
+
+    span{
+        color: #000000;
+        font-family: Arial;
+    }
+
+    p{
+        color: #ff0000; 
+        margin-left: 20px;
+    }
+
+    .borda-card{
+        border: 3px solid #7a16d8;
+    }
